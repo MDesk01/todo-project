@@ -1,6 +1,6 @@
 # todo-project<br>
-### Projeto FullStack utilizando Spring Boot 2.10 + Angular 11 (Feito no sistema operacional Windows 10)<br>
-Instruções:<br>
+## Projeto FullStack utilizando Spring Boot 2.10 + Angular 11 (Feito no sistema operacional Windows 10)<br>
+### Instruções:<br>
 1. Pré-requisitos(backend):<br>
 a. Ter instalado a IDE Eclipse 2021 (https://www.eclipse.org/downloads/)<br>
 b. Ter baixado o JDK11 (https://www.oracle.com/java/technologies/javase-downloads.html)<br>
