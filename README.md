@@ -16,4 +16,8 @@ a. Ter instalado o VSCode (https://code.visualstudio.com/)<br>
 b. Ter instalado o NodeJs (https://nodejs.org/en/)<br>
 c. Após a instalação do NodeJs, abrir o VSCode e via terminal, instalar o pacote NPM (Terminal > Novo Terminal > npm install -g)<br>
 d. Instalar o Angular Cli via terminal do VSCode (Terminal > Novo Terminal > npm install -g @angular/cli)<br>
-e. Ainda no VSCode, abrir a pasta do projeto frontend (Arquivo > Abrir Pasta...)
+e. Ainda no VSCode, abrir a pasta do projeto frontend (Arquivo > Abrir Pasta...)<br>
+f. Com a pasta do frontend aberta no VSCode, subir a aplicação via terminal (Terminal > Novo Terminal) como seguinte comando: ng serve<br>
+g. Para vizualizar e testar o projeto, acesse: http://localhost:4200/<br>
+*Observação: Para que o projeto funcione, é preciso que ambas as aplicações(backend e frontend) estejam em execução.*
+
